@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Optional: VS Code
+.vscode/
+
+# Optional: dotenv local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
