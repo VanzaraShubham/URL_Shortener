@@ -43,4 +43,4 @@ app.get("/:shortId", async (req, res) => {
   }
 });
 
-app.listen(3000, () => console.log("Server running 🚀"));
+app.listen(3000, () => console.log("Server running"));
